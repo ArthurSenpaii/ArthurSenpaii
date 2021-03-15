@@ -5,6 +5,18 @@
 
 Take a look ^_^
 
+
+### [Fast Sorting](https://github.com/ArthurSenpaii/FastSorting)
+
+![Fast Sorting](https://raw.githubusercontent.com/ArthurSenpaii/FastSorting/main/img.png)
+
+
+### [Mandelbrot Fractal](https://github.com/ArthurSenpaii/Mandelbrot-Fractal)
+
 ![MandelBrot fractal](https://raw.githubusercontent.com/ArthurSenpaii/Mandelbrot-Fractal/Threading/Mandelbrot.png)
 
+
+### [GameOfLife](https://github.com/ArthurSenpaii/Game-Of-life)
+
 ![Game Of Life](https://raw.githubusercontent.com/ArthurSenpaii/Game-Of-life/main/gol.png)
+
