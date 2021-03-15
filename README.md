@@ -13,7 +13,7 @@ Take a look ^_^
 
 ### [Mandelbrot Fractal](https://github.com/ArthurSenpaii/Mandelbrot-Fractal)
 
-![MandelBrot fractal](https://raw.githubusercontent.com/ArthurSenpaii/Mandelbrot-Fractal/Threading/Mandelbrot.png)
+![MandelBrot fractal](https://raw.githubusercontent.com/ArthurSenpaii/Mandelbrot-Fractal/Threading/Mandelbrot.bmp)
 
 
 ### [GameOfLife](https://github.com/ArthurSenpaii/Game-Of-life)
